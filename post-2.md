@@ -12,4 +12,4 @@
 
 添加一张图片
 
-![image](/Users/wangjiahui/Desktop/graphic-g8d19911c9_640.png)
+![image](graphic-g8d19911c9_640.png)
